@@ -24,6 +24,7 @@ let sorteerScooterObj = {
     }
 
     document.getElementById('uitvoer').innerHTML = uitvoer;
+    
 
   }
 }
